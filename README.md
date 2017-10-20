@@ -1,5 +1,6 @@
 # hello-world
 Hello World project developed in order to experiment git and GitHub.
+
 This line has been edited in order to test the use of branch on gitHub.
 
 1st additional line added as a test line.
@@ -8,9 +9,7 @@ This line has been edited in order to test the use of branch on gitHub.
 
 3rd additional line added as a test line.
 
-
 4th additional line added as a test line.
-
 
 5th additional line added as a test line.
 
@@ -18,10 +17,12 @@ This line has been edited in order to test the use of branch on gitHub.
 
 7th additional line added as a test line.
 
-
 8th additional line added as a test line.
 
 9th additional line added as a test line.
+
+10th additional line added as a test line.
+
 
 
 
